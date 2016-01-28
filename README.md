@@ -14,3 +14,7 @@
     cd ~/.vim
     git submodule init
     git submodule update
+
+## To update all submodules...
+
+    git submodule foreach git pull origin master
