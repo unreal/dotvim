@@ -4,3 +4,9 @@
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/vim-tp"]
+	path = bundle/vim-tp
+	url = git@github.com:onerobotics/vim-tp.git
+[submodule "bundle/vim-karel"]
+	path = bundle/vim-karel
+	url = git@github.com:onerobotics/vim-karel.git
