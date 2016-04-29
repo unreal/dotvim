@@ -3,7 +3,9 @@ execute pathogen#infect()
 
 syntax enable
 set background=dark
-colorscheme solarized
+"colorscheme solarized
+
+colorscheme monokai
 
 filetype plugin indent on
 set nu

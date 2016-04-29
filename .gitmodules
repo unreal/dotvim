@@ -31,3 +31,6 @@
 [submodule "bundle/vim-command-t"]
 	path = bundle/vim-command-t
 	url = https://github.com/wincent/command-t.git
+[submodule "bundle/vim-monokai"]
+	path = bundle/vim-monokai
+	url = https://github.com/crusoexia/vim-monokai.git
