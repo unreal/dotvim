@@ -34,3 +34,6 @@
 [submodule "bundle/vim-monokai"]
 	path = bundle/vim-monokai
 	url = https://github.com/crusoexia/vim-monokai.git
+[submodule "bundle/vim-elm"]
+	path = bundle/vim-elm
+	url = https://github.com/lambdatoast/elm.vim.git
